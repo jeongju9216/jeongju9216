@@ -4,3 +4,6 @@
 
 기술 블로그  
 https://jeong9216.tistory.com/
+
+노션 포트폴리오
+http://jeong9216.notion.site/7841e3fe94c44f29bc6e30774fbe108a
