@@ -47,14 +47,9 @@
 - [[Swift] Generic, Protocol을 이용한 Extension Wrapping](https://jeong9216.tistory.com/667)
 - [[Swift] Failable Initializer (실패 가능한 초기화)](https://jeong9216.tistory.com/665)
 
-### iOS
+### iOS & 프로젝트
 - [[iOS] Alert 개선 과정 단계별로 살펴보기](https://jeong9216.tistory.com/676)
-- [[Xcode] XCTest 성능 측정 (Command Line 환경)](https://jeong9216.tistory.com/661)
-- [[Xcode] Thread Sanitizer - Race Condition 디버깅](https://jeong9216.tistory.com/659)
-
-### iOS 프로젝트
 - [[iOS] Jeongfisher 4. Extension Wrapper와 파라미터 고민](https://jeong9216.tistory.com/673)
 - [[iOS] Jeongfisher 3. JFImageDownloader, 중복 Request 처리](https://jeong9216.tistory.com/672)
 - [[iOS] Jeongfisher 2. 메모리 캐시, 디스크 캐시](https://jeong9216.tistory.com/671)
 - [[iOS] Jeongfisher 1. 라이브러리 첫 도전, 다운샘플링 적용 결과](https://jeong9216.tistory.com/670)
-- [[iOS] 작심삼일 개발 일지 6 - 대규모 2.0 패치](https://jeong9216.tistory.com/650)
