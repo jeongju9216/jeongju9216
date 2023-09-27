@@ -43,7 +43,7 @@
 # 기술 블로그 ([전체 글](https://jeong9216.tistory.com/category))
 - 2021년 7월부터 운영 중
 
-- [Swift 보러가기](https://jeong9216.tistory.com/category/Swift)
-- [iOS 보러가기](https://jeong9216.tistory.com/category/iOS)
-- [iOS 프로젝트 보러가기](https://jeong9216.tistory.com/category/iOS%20프로젝트)
-- [WWDC 보러가기](https://jeong9216.tistory.com/category/WWDC)
+- [Swift 포스팅 보러가기](https://jeong9216.tistory.com/category/Swift)
+- [iOS 포스팅 보러가기](https://jeong9216.tistory.com/category/iOS)
+- [프로젝트 개발일지 보러가기](https://jeong9216.tistory.com/category/iOS%20프로젝트)
+- [WWDC 정리 보러가기](https://jeong9216.tistory.com/category/WWDC)
