@@ -46,8 +46,4 @@
   
 </br>
 
-## 기술 블로그 ([전체 글](https://jeong9216.tistory.com/category))
-- [Swift 포스팅 보러가기](https://jeong9216.tistory.com/category/Swift)
-- [iOS 포스팅 보러가기](https://jeong9216.tistory.com/category/iOS)
-- [프로젝트 개발일지 보러가기](https://jeong9216.tistory.com/category/iOS%20프로젝트)
-- [WWDC 정리 보러가기](https://jeong9216.tistory.com/category/WWDC)
+## [기술 블로그](https://jeong9216.tistory.com/category)
