@@ -1,8 +1,5 @@
 # 유정주 JeongJu Yu
 
-## 💻 Tech Stack
-![iOS](https://img.shields.io/badge/iOS-007AFF?style=for-the-badge) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge) [Blog](https://jeong9216.tistory.com/)
-
 </br>
 
 ## Experiences
