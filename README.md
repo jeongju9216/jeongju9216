@@ -1,6 +1,5 @@
 # 유정주 JeongJu Yu
-
-</br>
+### [기술 블로그](https://jeong9216.tistory.com/category)
 
 ## Experiences
 ### 네이버 부스트캠프 웹・모바일 8기 멤버십 (수료)
@@ -40,7 +39,3 @@
 
 </div>
 </details>
-  
-</br>
-
-## [기술 블로그](https://jeong9216.tistory.com/category)
