@@ -2,6 +2,10 @@
 ### [기술 블로그](https://jeong9216.tistory.com/category)
 
 ## Experiences
+### Boost SwiftUI 스터디
+- 2024.06 ~ 현재
+- [Wiki](https://github.com/BoostSwiftUI/SwiftUI/wiki)
+
 ### 네이버 부스트캠프 웹・모바일 8기 멤버십 (수료)
 - 16주 (2023-08-28 ~ 2023-12-15)
 - `iOS` 파트 / [그룹 프로젝트 바로가기](https://github.com/boostcampwm2023/iOS02-moti)
