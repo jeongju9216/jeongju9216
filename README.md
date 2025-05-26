@@ -2,6 +2,10 @@
 ### [기술 블로그](https://jeong9216.tistory.com/category)
 
 ## Experiences
+### 아이포트폴리오
+- 2024.01 ~ 2025.05
+- iOS 개발자
+
 ### Boost SwiftUI 스터디
 - 2024.06 ~ 현재
 - [Wiki](https://github.com/BoostSwiftUI/SwiftUI/wiki)
